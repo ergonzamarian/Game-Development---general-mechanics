@@ -1,2 +1,4 @@
 # Game-Development---general-mechanics
- Movement, physics, scenarios.
+ Movement, physics, scenario.
+
+ Movimento.
